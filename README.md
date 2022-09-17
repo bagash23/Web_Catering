@@ -1,6 +1,6 @@
 <p align="center">
   <br />
-  <img width="100" src="./assets/logo.svg" alt="Tailwind CSS logo">
+  <img width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS logo">
   <br />
   <br />
 </p>
